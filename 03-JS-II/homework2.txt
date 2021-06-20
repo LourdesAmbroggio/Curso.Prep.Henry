@@ -1,0 +1,6 @@
+* `for` : Es un ciclo que sirve para hacer tareas repetitivas, hasta que vos le indiques.
+* `&&`, `||`, `!`
+Son indicadores lógicos, que sirven para tener un resultado verdadero o falso.
+&& = Significa Y.
+|| = Significa O.
+! = Significa NO.
