@@ -1,0 +1,5 @@
+Variables "Es como una caja donde podes guardar diferentes valores, ya sea como un "nombre" un "numero", que podes usarlo mas adelante cuando lo necesites y podes cambiar el nombre o numero que le diste al comienzo".
+Strings "Es un conjuto de letras y símbolos"
+Funciones (argumentos, return) "La funcion es una lista de tareas que tienen como objetivo devolverte un resultado" el argumento es la herramienta que vos le das a la funcion para que se cumpla esa tarea y return te devuelve ese resultado.
+Declaraciones if "If se utiliza para evaluar una condición"
+Valores booleanos (true, false) "Para ver si dejas que algo pase o no pase, como por ejemplo un interruptor de luz, si se prende la luz o se apaga"
