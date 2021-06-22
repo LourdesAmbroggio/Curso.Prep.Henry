@@ -1,0 +1,1 @@
+Arrays: Es una lista de elementos, a la cual vos le podes asignar algun valor y modificarlos si lo deseas, tambien podes añadir otros elementos y hasta eliminarlos. 
