@@ -1,0 +1,4 @@
+Objetos: Es una colección de propiedades.
+* Propiedades: Son los atributos de los objetos.
+* Métodos: Las acciones que puede realizar un objeto.
+* Notación de puntos vs notación de corchetes: Notación puntos es mas facil de entender que la notación de corchetes.
