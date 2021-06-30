@@ -1,0 +1,2 @@
+* `prototype`: Las propiedades que tienen los objetos.
+* _Constructors_ (de Clases): Acción que permite poder crear los objetos, de un determinado tipo.
