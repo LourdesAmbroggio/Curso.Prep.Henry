@@ -1,0 +1,55 @@
+body {
+    background-color: #f0e7e7;
+    color: black;
+    font-family: sans-serif;
+    text-align: justify;
+}
+
+h1 {
+    color: #887a75;
+    font-size: 200%;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.foto {
+    display: block;
+    margin: auto;
+}
+
+h2 {
+    background-color: #f1d8d8;
+    color: rgb(150, 129, 120);
+    font-size: 150%;
+    text-transform: capitalize;
+}
+
+h3 {
+    background-color: #eee8d9;
+    color: rgb(150, 129, 120);
+    font-size: 130%;
+}
+
+p {
+    background-color: #f1d8d8;
+    line-height: 150%;
+}
+
+address {
+    background-color: white;
+    font-style: normal;
+    text-align: right;
+}
+
+em {
+    color: rgb(150, 129, 120);
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+strong {
+    color: rgb(150, 129, 120);
+    font-style: normal;
+    font-weight: normal;
+}
